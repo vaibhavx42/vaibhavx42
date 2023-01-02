@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
-- 💬 Ask me about **CPP , CLOUD COMPUTING , CLOUD MANAGEMENT**
+- 💬 Ask me about **CLOUD COMPUTING , DEVOPS**
 
 - 📫 How to reach me **bhardwajvaibhav186@gmail.com**
 
