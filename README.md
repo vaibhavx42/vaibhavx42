@@ -22,6 +22,7 @@
 
 
 ## My ~~NFTs~~ 💰 (edit: apparently they are not NFTs?)
+[![@vaibhavx42's Holopin board](https://holopin.io/api/user/board?user=vaibhavx42)](https://holopin.io/@vaibhavx42)
 
 
 
