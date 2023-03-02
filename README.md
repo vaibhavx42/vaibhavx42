@@ -12,6 +12,8 @@ _I am from Mars!_ :d
 
 - 📫 How to reach me **bhardwajvaibhav186@gmail.com**
 
+- ❄️ Read my Blogs [here](https://vxibhxv.hashnode.dev)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhardwajvaibhav42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhardwajvaibhav42" height="30" width="40" /></a>
