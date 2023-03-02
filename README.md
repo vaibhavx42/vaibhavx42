@@ -1,9 +1,9 @@
+<img align="center" alt="Coding" width="1000" src="https://github.com/vaibhavx42/vaibhavx42/blob/main/header.png">
 
-<h1 align="center">  नमस्ते! 🙏 <br>  I'm Vaibhav Bhardwaj</h1>
-<h3 align="center">A Tech Enthusiast from Delhi, India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavx42&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavx42" />
 
+_I am from Mars!_ :d
 - 🌱 I’m currently learning **Cloud Native Technologies**
 
 - 💬 Ask me about **CLOUD COMPUTING , DEVOPS**
