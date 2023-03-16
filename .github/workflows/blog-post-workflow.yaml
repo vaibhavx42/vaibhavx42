@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "HASHNODE"
           commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://hashnode.com/rss/feed/vxibhxv"
+          feed_list: "https://hashnode.com/rss/feed/@vxibhxv"
