@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'godnik' # Hashnode Username
+          USERNAME: 'vxibhxv' # Hashnode Username
           BLOG_URL: 'https://vxibhxv.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
