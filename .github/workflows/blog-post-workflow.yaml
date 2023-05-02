@@ -20,4 +20,4 @@ jobs:
           BLOG_URL: 'https://vxibhxv.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
-           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+           TOKEN: ${{ secrets.TOKEN }}
