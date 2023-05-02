@@ -1,18 +1,23 @@
-name: Lastest Hashnode Blog Post
+name: "📚 Blog Updater"
+
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest Hashnode blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: https://hashnode.com/@vxibhxv
+          USERNAME: 'godnik' # Hashnode Username
+          BLOG_URL: 'https://vxibhxv.hashnode.dev/' # Blog URL
+          COUNT: 10 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
