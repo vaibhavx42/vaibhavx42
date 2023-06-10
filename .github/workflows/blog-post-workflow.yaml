@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'vxibhxv' # Hashnode Username
-          BLOG_URL: 'https://vxibhxv.hashnode.dev/' # Blog URL
+          BLOG_URL: 'https://vxibhxv.hashnode.dev/' # 
           COUNT: 10 # MAX Visisble
         env:
            TOKEN: ${{ secrets.TOKEN }
